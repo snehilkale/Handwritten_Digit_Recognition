@@ -10,7 +10,6 @@
 ![Accuracy](https://img.shields.io/badge/Test%20Accuracy-~99%25-brightgreen)
 ![GUI](https://img.shields.io/badge/GUI-Tkinter-informational)
 
-<img src="screenshots/app_screenshot.png" alt="App screenshot" width="320">
 
 </div>
 
